@@ -1,4 +1,7 @@
 ### Hi there 👋
+###
+### I am currently Pursuing Btech In computer science and engineering.
+### I am Passionate about coding and learning new stuff.
 
 <!--
 **TOR50/TOR50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
