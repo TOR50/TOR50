@@ -1,19 +1,35 @@
-### Hi there 👋
-###
-### I am currently Pursuing Btech In computer science and engineering.
-### I am Passionate about coding and learning new stuff.
+# Hi , Rauhan Here! 
 
-<!--
-**TOR50/TOR50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 My Pronouns: he/Him
+- 💬 Ask me about: anything
+- ⚡ Fun fact: army brat
+ 
+# GitHub Stats
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOR50&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOR50&layout=compact)
+
+
+# My coding profiles
+
+<a href="https://hackerrank.com/rauhan.official@gmail.com">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
+<a href="https://leetcode.com/Rauhan_roy">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+</a>
+
+<a href="https://www.hackerearth.com/@rauhan">
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
+</a>
+
+# My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,discord,vscode,html,css,js,python" />
+  </a>
+</p>
+
+Contact Me On : [rauhan.official@gmail.com](mailto:rauhan.official@gmail.com)
+
