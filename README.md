@@ -13,7 +13,7 @@
 
 # My coding profiles
 
-<a href="https://hackerrank.com/rauhan.official@gmail.com">
+<a href="https://www.hackerrank.com/profile/rauhan_official">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 <a href="https://leetcode.com/Rauhan_roy">
