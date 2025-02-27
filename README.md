@@ -1,7 +1,5 @@
 # Hi , Rauhan Here! 
 
-[![Resume](https://img.shields.io/badge/-Resume-8A2BE2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/w/s!Aph1rvzS4E0EuQExvo3H3z5aD-F1?e=LPlFN3)
-
 - 😄 My Pronouns: he/Him
 - 💬 Ask me about: anything
 - ⚡ Fun fact: army brat
