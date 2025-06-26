@@ -6,19 +6,20 @@
 
 # GitHub Stats
 
-![Rauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOR50&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOR50&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOR50&layout=compact)
 
-# Codeforces Stats
+# Competitive Programming Stats
 
 [![Codeforces user stats](https://codeforces-readme-stats.vercel.app/api/card?username=rauhan)](https://codeforces.com/profile/rauhan)
+[![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=Rauhan_roy&theme=radical)](https://leetcode.com/u/Rauhan_roy/)
 
 # My Coding Profiles
 
 <a href="https://www.hackerrank.com/profile/rauhan_official">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
-<a href="https://leetcode.com/Rauhan_roy">
+<a href="https://leetcode.com/u/Rauhan_roy/">
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a>
 <a href="https://codeforces.com/profile/TOR50">
