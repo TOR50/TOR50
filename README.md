@@ -12,7 +12,7 @@
 # Competitive Programming Stats
 
 [![Codeforces user stats](https://codeforces-readme-stats.vercel.app/api/card?username=rauhan)](https://codeforces.com/profile/rauhan)
-[![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=Rauhan_roy&theme=radical)](https://leetcode.com/u/Rauhan_roy/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rauhan_roy?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/u/Rauhan_roy/)
 
 # My Coding Profiles
 
