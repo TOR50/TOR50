@@ -4,14 +4,6 @@
 * 💬 **Ask me about:** Anything!
 * ⚡ **Fun fact:** I'm an army brat.
 
----
-
-## GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TOR50&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="400px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOR50&layout=compact" alt="Top Langs" width="400px"/>
-</div>
 
 ---
 
