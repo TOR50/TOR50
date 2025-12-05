@@ -4,7 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Competitive+Programmer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" /></a>
   
   <!-- Visitor Counter -->
-  <p><img src="https://profile-counter.glitch.me/TOR50/count.svg" alt="Visitor Count" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=TOR50&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" /></p>
+
   
   <!-- Socials -->
   <p>
@@ -43,8 +44,9 @@ I am a passionate developer with a strong foundation in **C, C++, and Python**. 
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TOR50&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TOR50&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&rank=-Issues,-Reviews" alt="Trophies" />
 </div>
+
 
 ---
 
