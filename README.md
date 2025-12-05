@@ -59,12 +59,13 @@ I am a passionate developer with a strong foundation in **C, C++, and Python**. 
 
 <div align="center">
     <a href="https://codeforces.com/profile/TOR50">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rauhan&theme=transparent&text_color=444&title_color=0077B5" alt="Codeforces user stats" width="350px"/>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rauhan&theme=transparent&text_color=444&title_color=0077B5" alt="Codeforces user stats" height="180px"/>
     </a>
     <a href="https://leetcode.com/u/Rauhan_roy/">
-        <img src="https://leetcard.jacoblin.cool/Rauhan_roy?theme=light&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" width="350px"/>
+        <img src="https://leetcard.jacoblin.cool/Rauhan_roy?theme=light&font=Source%20Code%20Pro" alt="LeetCode Stats" height="180px"/>
     </a>
 </div>
+
 
 ---
 
