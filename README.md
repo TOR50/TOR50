@@ -44,8 +44,9 @@ I am a passionate developer with a strong foundation in **C, C++, and Python**. 
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TOR50&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&rank=-Issues,-Reviews" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TOR50&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&rank=-C,-B&title=-Issues,-Reviews" alt="Trophies" />
 </div>
+
 
 
 ---
