@@ -41,11 +41,12 @@ I am a passionate developer with a strong foundation in **C, C++, and Python**. 
 
 <div align="center">
   <a href="https://github.com/TOR50">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOR50&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=444&icon_color=0077B5" alt="Rauhan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOR50&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=444&icon_color=0077B5" alt="Rauhan's GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/TOR50">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOR50&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=444&icon_color=0077B5" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOR50&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=444&icon_color=0077B5" alt="Top Languages" height="150" />
   </a>
+
 </div>
 
 <div align="center">
